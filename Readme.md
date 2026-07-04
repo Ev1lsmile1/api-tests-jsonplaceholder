@@ -24,12 +24,16 @@
 - DELETE удаление поста
 
 ## Структура проекта
-project/
-├── conftest.py       # общие фикстуры
+```
+APITestminiproj/
+├── conftest.py
 ├── tests/
 │   ├── test_users.py
 │   └── test_posts.py
+├── requirements.txt
+├── .gitignore
 └── README.md
+```
 
 ## Как запустить
 
